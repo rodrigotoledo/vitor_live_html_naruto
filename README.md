@@ -26,15 +26,19 @@ Este projeto é uma iniciativa colaborativa entre pai e filho, Rodrigo Toledo e 
    git clone https://github.com/rodrigotoledo/vitor_live_html_naruto
    ```
 
-2. Abra os arquivos HTML e CSS em seu editor de código favorito.
+2. Abra o arquivo HTML em seu editor de código favorito.
 
 3. Siga as lições e exercícios fornecidos nos vídeos para aprender e praticar HTML, CSS e Tailwind CSS.
 
-4. Contribua com suas melhorias e adições ao projeto, se desejar.
+4. Caso queira ajuda e ver como o projeto foi feito, assista o vídeo no Youtube com o link a seguir: https://www.youtube.com/watch?v=mBd5E1r9_iQ
+
+5. Contribua com suas melhorias e adições ao projeto, se desejar.
 
 ## Contribuição
 
 Este projeto está aberto a contribuições. Se você tiver sugestões de melhorias ou correções, sinta-se à vontade para abrir uma issue ou enviar um pull request.
+
+Desenvolvedor Kid: https://www.instagram.com/vitortoneli/
 
 Aceitamos contribuição para o projeto `conversinha de dev`. Para isso deposite qualquer valor no pix: `3ee71e15-dfd7-4a93-9cb3-e5bc7fda5825`
 
